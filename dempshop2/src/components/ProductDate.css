@@ -1,0 +1,16 @@
+.product-date-month{
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+.product-date-year{
+    color: white;
+    text-align: center;
+}
+.product-date-day{
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+}

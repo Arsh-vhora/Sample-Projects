@@ -1,0 +1,34 @@
+.new-product_controls{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.new-product_control label{
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.new-product_control input{
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+}
+
+.new-product_control button{
+    background-color:rgb(98, 48, 145);
+    color: white;
+    font-size: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    width: 150px;
+}
